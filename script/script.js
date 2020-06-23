@@ -3,9 +3,11 @@ const Config = {
     scale: 1,
     Links: [
         [
-            "workona",
+            "productivity",
             [
                 ["workona", "https://workona.com/0/"],
+                ["calendar", "https://calendar.google.com/"],
+                ["github", "https://github.com/AKotro"],
             ]
         ],
         [
