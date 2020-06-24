@@ -11,6 +11,7 @@
     --red: #fb4934;
     --orange: #fe8019;
     --branch: 1px solid #83a598;
+    --blue: #458588;
 }
 
 html {
@@ -100,8 +101,8 @@ a {
 
 a:hover,
 a:focus {
-    color: var(--background);
-    background: var(--orange);
+    color: var(--blue);
+    /* background: var(--blue); */
 }
 
 form h1 {
