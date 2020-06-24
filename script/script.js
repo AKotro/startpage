@@ -30,7 +30,7 @@ const Config = {
             "video",
             [
                 ["youtube", "https://www.youtube.com"],
-                ["twitch", "https://www.twitch.tv"],
+                ["twitch", "https://www.twitch.tv/following/live"],
                 ["plex", "https://app.plex.tv"]
             ]
         ],
