@@ -31,7 +31,7 @@ const Config = {
             [
                 ["youtube", "https://www.youtube.com"],
                 ["twitch", "https://www.twitch.tv"],
-                ["plex", "https://www.app.plex.tv"]
+                ["plex", "https://app.plex.tv"]
             ]
         ],
         [
