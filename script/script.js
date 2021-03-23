@@ -23,7 +23,7 @@ const Config = {
             [
                 ["messenger", "https://www.messenger.com"],
                 ["twitter", "https://www.twitter.com"],
-                ["reddit", "https://www.reddit.com"]
+                // ["reddit", "https://www.reddit.com"]
             ]
         ],
         [
